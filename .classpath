@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/sdk-core.jar"/>
+	<classpathentry kind="lib" path="lib/soapstation_plugin.jar" sourcepath="lib/soapstation_plugin.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Userfiles/pesingh/Desktop/Test-Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Userfiles/pesingh/Desktop/Test-Jars/objenesis-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Userfiles/pesingh/Desktop/Test-Jars/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/WEB-Brigde-Plugin/lib/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
